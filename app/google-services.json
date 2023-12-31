@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904921483971",
+    "project_id": "savingimage-a8611",
+    "storage_bucket": "savingimage-a8611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904921483971:android:1ba786c780a518a85fb076",
+        "android_client_info": {
+          "package_name": "com.example.newcanvas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6g6FWDNmYBsReIFi57B7xFO3P_A4f00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

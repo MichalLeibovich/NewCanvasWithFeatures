@@ -12,12 +12,15 @@ import android.graphics.Path;
 import android.os.Bundle;
 import android.view.View;
 
+import com.google.firebase.auth.FirebaseAuth;
 
 
 public class MainActivity extends AppCompatActivity {
 
+
     public static Path path = new Path();
     public static Paint paintBrush = new Paint();
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -75,6 +78,11 @@ public class MainActivity extends AppCompatActivity {
         currentBrush = c;
         path = new Path();
     }
+
+
+
+
+
 
 
 }
