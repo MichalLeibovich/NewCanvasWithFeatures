@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
+
     public void pencil(View view)
     {
         paintBrush.setColor(Color.BLACK);
