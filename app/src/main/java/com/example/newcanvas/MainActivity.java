@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public static Path path = new Path();
+
     public static Paint paintBrush = new Paint();
 
 
